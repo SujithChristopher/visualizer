@@ -1,0 +1,5 @@
+[files]
+pth = "D:\\CMC\\visualizer\\data_dumps"
+
+[mobbo_calibration_pth]
+pth = "/path/to/mobbo_calibration.csv"
